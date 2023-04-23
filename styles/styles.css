@@ -154,12 +154,9 @@ body {
     background-repeat: no-repeat;
     background-position: top left, bottom right;
     padding: 115px 165px 100px 165px;
-
     display: grid;
-
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
-    border: 1px solid rgb(162, 25, 25);
   }
 
   .title__container {
